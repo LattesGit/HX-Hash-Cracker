@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-HASH Creator - Miraç
+HASH Creator - LatenT
 MD5/SHA1/SHA256/SHA512 Generator
 """
 import hashlib
@@ -11,7 +11,7 @@ init(autoreset=True)
 
 def print_banner():
     print("=" * 20)
-    print("BY Miraç")
+    print("BY LatenT")
     print("HASH creator!!")
     print("=" * 20)
 
