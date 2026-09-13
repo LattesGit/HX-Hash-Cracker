@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 HX Hash Cracker 6 Char Ready
-Miraç - Advanced CTF Engine
+LatenT - Advanced CTF Engine
 """
 import hashlib
 import itertools
@@ -19,7 +19,7 @@ init(autoreset=True)
 def print_banner():
     print("=" * 60)
     print("HX Hash Cracker!!")
-    print("by Miraç")
+    print("by LatenT")
     print("=" * 60)
 
 def print_summary(target_hash, algo, wordlist_path, max_length, result, elapsed, total_checked):
