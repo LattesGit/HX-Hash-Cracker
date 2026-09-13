@@ -11,7 +11,7 @@ cat << "EOF"
          *  /_/  *      .  |     |  .   *      .     .  *
 
                   HX Hash Cracker Suite
-                       by Miraç
+                       by LatenT
 
     [1] main.py      → Hash Cracker (L6)
     [2] hash_creator.py → Hash Generator
